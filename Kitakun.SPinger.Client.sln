@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitakun.SPinger.Client", "Kitakun.SPinger.Client\Kitakun.SPinger.Client.csproj", "{73B19E45-C153-44D9-A2E9-F2D655CFF6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitakun.SPinger.Validators", "Kitakun.SPinger.Validators\Kitakun.SPinger.Validators.csproj", "{A52164F9-AB1E-404A-89C3-0D971EB22E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitakun.SPinger.Services", "Kitakun.SPinger.Services\Kitakun.SPinger.Services.csproj", "{75BD745A-CD0E-40F0-B806-EE9A4CB328F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitakun.SPinger.Core", "Kitakun.SPinger.Core\Kitakun.SPinger.Core.csproj", "{C164AF4A-415B-4B1C-A77E-345F9DC853F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B19E45-C153-44D9-A2E9-F2D655CFF6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B19E45-C153-44D9-A2E9-F2D655CFF6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B19E45-C153-44D9-A2E9-F2D655CFF6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B19E45-C153-44D9-A2E9-F2D655CFF6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52164F9-AB1E-404A-89C3-0D971EB22E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52164F9-AB1E-404A-89C3-0D971EB22E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52164F9-AB1E-404A-89C3-0D971EB22E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52164F9-AB1E-404A-89C3-0D971EB22E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BD745A-CD0E-40F0-B806-EE9A4CB328F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BD745A-CD0E-40F0-B806-EE9A4CB328F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BD745A-CD0E-40F0-B806-EE9A4CB328F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BD745A-CD0E-40F0-B806-EE9A4CB328F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C164AF4A-415B-4B1C-A77E-345F9DC853F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164AF4A-415B-4B1C-A77E-345F9DC853F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164AF4A-415B-4B1C-A77E-345F9DC853F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C164AF4A-415B-4B1C-A77E-345F9DC853F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E7C1EB-BDF4-4176-B178-C50A3FC0C616}
+	EndGlobalSection
+EndGlobal
